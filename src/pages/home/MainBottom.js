@@ -1,4 +1,3 @@
-import React from "react";
 import frameone from "./images/Frameone.png";
 import frametwo from "./images/Frametwo.png";
 import framethree from "./images/Framethree.png";
